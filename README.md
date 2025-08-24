@@ -4,19 +4,22 @@ To become a strong candidate for the "GenAI Engineer / Applied Data Scientist" p
 # Plan
 Solidify Your Tier 1 Foundation:
 
+
 Master LangChain: Don't just read about it. Build multiple projects. Our plan to build a RAG application on your Google Search history is a perfect portfolio project.
+
 
 Build Your Project: As we planned, build the RAG application on your search data. But now, add these steps:
 
-Step A: Ingest your data and build the RAG logic.
+  Step A: Ingest your data and build the RAG logic.
 
-Step B: Wrap your RAG logic in a FastAPI application. Create an endpoint where you can send a query and get a response.
+  Step B: Wrap your RAG logic in a FastAPI application. Create an endpoint where you can send a query and get a response.
 
-Step C: Containerize this FastAPI app using Docker.
+  Step C: Containerize this FastAPI app using Docker.
 
-Step D (Bonus): Deploy this Docker container to a free-tier service on AWS or Azure.
+  Step D (Bonus): Deploy this Docker container to a free-tier service on AWS or Azure.
 
 Completing this project will allow you to tick off Python, LangChain, RAG, FastAPI, Docker, and Cloud experience in an interview.
+
 
 Learn Basic Fine-Tuning (Tier 2):
 
