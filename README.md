@@ -37,3 +37,6 @@ Your path is clear. Focus on becoming a builder. The market for people who can c
 
 # Project
 Ask questions about your past Google searches and get answers based on the information you found at the time. It's like having a personalized search engine that understands your interests and can quickly retrieve relevant information from your search history.
+
+# Deployment
+Building and deploying the application locally and accessing it through your web browser using FastAPI is a great starting point. We can always explore deploying it to a cloud platform later on.
